@@ -1,0 +1,32 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/ben/fav/ros2/install/scenario_msgs/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2/install/acoustic_simulator/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/visual_localization/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/px4_msgs/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/path_planning/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/esc/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/hippo_common/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/hippo_msgs/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/hippo_control_msgs/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/apriltag_msgs/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/apriltag/lib/python3.10/site-packages",
+        "/opt/ros/iron/lib/python3.10/site-packages",
+        "/home/ben/git/ahoi/pylib/lib"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/ben/fav/ros2/install/scenario_msgs/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2/install/acoustic_simulator/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/visual_localization/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/px4_msgs/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/path_planning/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/esc/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/hippo_common/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/hippo_msgs/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/hippo_control_msgs/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/apriltag_msgs/lib/python3.10/site-packages",
+        "/home/ben/fav/ros2_underlay/install/apriltag/lib/python3.10/site-packages",
+        "/opt/ros/iron/lib/python3.10/site-packages",
+        "/home/ben/git/ahoi/pylib/lib"
+    ]
+}
