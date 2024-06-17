@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """
-Test für Anker Node
+Test für Anker Node - aktuell mqtt Version für Setup von Cyber Physical Systems genutzt
 """
 import rclpy
-import math
 from hippo_msgs.msg import AhoiPacket
 from rclpy.node import Node
 from ahoi.modem.modem import Modem
@@ -18,7 +17,7 @@ class anker_node(Node):
         self.id = 0  # TODO Anker-ID anpassen
 
         self.myModem = Modem()
-        self.myModem.connect("/dev/ttyUSB1")  # TODO port anpasse
+        self.myModem.connect("/dev/ttyUSB0")  # TODO port anpassen
         self.myModem.setTxEcho(
             True)  # übertragene und empfangene Pakete in Terminal echoen
         self.myModem.setRxEcho(True)
