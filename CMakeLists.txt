@@ -6,6 +6,8 @@ find_package(rclpy REQUIRED)
 
 install(PROGRAMS
   nodes/anker_node.py
+  nodes/anker_node_2.py
+  nodes/anker_mqtt_final.py
   DESTINATION lib/${PROJECT_NAME}
 )
 
